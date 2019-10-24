@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AllSocialPosts</fullName>
+    <columns>Name</columns>
+    <columns>Persona</columns>
+    <columns>Content</columns>
+    <columns>Posted</columns>
+    <columns>Parent</columns>
+    <columns>ReviewedStatus</columns>
+    <filterScope>Everything</filterScope>
+    <label>All social posts</label>
+</ListView>
