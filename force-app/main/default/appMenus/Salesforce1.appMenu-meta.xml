@@ -53,10 +53,6 @@
         <type>StandardAppMenuItem</type>
     </appMenuItems>
     <appMenuItems>
-        <name>LightningInstrumentation</name>
-        <type>StandardAppMenuItem</type>
-    </appMenuItems>
-    <appMenuItems>
         <name>RetailExecution</name>
         <type>StandardAppMenuItem</type>
     </appMenuItems>
