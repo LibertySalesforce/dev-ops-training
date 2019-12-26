@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CurtOlin_Validation_Rule</fullName>
+    <active>false</active>
+    <description>This is a test validation rule.  Leave Inactive</description>
+    <errorConditionFormula>text(Salutation)  = &#39;Bob&#39;</errorConditionFormula>
+    <errorDisplayField>Salutation</errorDisplayField>
+    <errorMessage>Error.  Bob is not a valid Salutation</errorMessage>
+</ValidationRule>
